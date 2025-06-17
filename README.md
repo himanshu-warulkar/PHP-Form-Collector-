@@ -9,6 +9,7 @@ A simple and minimal PHP project to collect user feedback using core PHP and fil
 - Stores feedback in a `data.json` file using `fopen()`/`file_put_contents()`
 - Displays all feedback with name, message, and timestamp
 - Clean and minimal UI (customizable via `style.css`)
+![keh](https://github.com/user-attachments/assets/70f97a9d-f2e1-4466-b071-779a6191b8e6)
 
 ## 🚀 Getting Started
 
